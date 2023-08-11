@@ -7,3 +7,8 @@ To set up the quickstart file try going through google's documentations of acces
 To convert text to html Beautiful soup (a module) was used
 
 The Swiper slides are a part of nextjs
+
+
+
+The Credentials and token json files are not included in the repo and have to be generated on use
+
